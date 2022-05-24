@@ -6,7 +6,7 @@
 
 </br>
 
-<a href="https://www.linkedin.com/in/vibhansh-gupta//">
+<a href="https://www.linkedin.com/company/polymerize-io">
   <img align="left" alt="Polymerize's Linkdein" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG27.png" />
 </a>
 <a href="https://polymerize.io/">
