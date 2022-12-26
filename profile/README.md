@@ -39,7 +39,7 @@
 <a href="https://scikit-learn.org/"><img height="50" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></a>
 <a href="https://pandas.pydata.org/docs/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/600px-Pandas_mark.svg.png"></a>
 <a href="https://numpy.org"><img height="50" src="https://numpy.org/images/logo.svg"></a>
-<a href="https://docs.celeryq.dev/en/stable/index.html"><img height="55" src="http://docs.celeryproject.org/en/master/_static/celery_512.png"></a>
+<a href="https://docs.celeryq.dev/en/stable/index.html"><img height="55" src="https://docs.celeryq.dev/en/stable/_static/celery_512.png"></a>
 &nbsp; <a href="https://www.python.org"><img height="50" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a>
 &nbsp; <a href="https://jupyter.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></a>
 <a href="https://fastapi.tiangolo.com"><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
