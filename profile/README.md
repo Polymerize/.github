@@ -13,7 +13,7 @@
 <a href="https://reactjs.org"><img height="50" src="https://pluspng.com/img-png/react-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png"></a>
 <a href="https://firebase.google.com/docs/"><img height="50" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png"></a>
 <a href="https://lerna.js.org/"><img height="50" src="https://user-images.githubusercontent.com/46837998/176855605-ca889f3f-c5be-44f6-8d0c-9268d4a65156.png"></a>
-<a href="https://graphql.org"><img height="50" src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2019/07/GraphQL_Logo.svg.png?resize=768%2C768&ssl=1"></a>
+<a href="https://graphql.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/GraphQL_logo_%28horizontal%29.svg/250px-GraphQL_logo_%28horizontal%29.svg.png"></a>
 <a href="https://www.cypress.io/"><img height="50" src="https://images.ctfassets.net/czwjnyf8a9ri/5jZlu3VJwWQC986YRqBY8M/29ce530fee9c62a09fc4f15b33076cde/cypress-1024x553.png"></a>
 <a href="https://nodejs.org/en/"><img height="50" src="https://nodejs.org/static/images/logo.svg"></a>
 </p>
@@ -27,8 +27,8 @@
 <a href="https://www.mongodb.com"><img height="50" src="https://pluspng.com/img-png/logo-mongodb-png-mongo-db-badge-sticker-600.png"></a>
 &nbsp; <a href="https://www.elastic.co/products?elektra=home"><img height="50" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png"></a>
 <a href="https://redis.io"><img height="50" src="https://c2a32ff18d23c8f567f0-e44b0df73868b5d567b1e58e01681d15.ssl.cf5.rackcdn.com/2013-04-29-speed-up-with-redis/redis_logo-41cc2befccdae12420292ee1feda5ed9.png"></a>
-<a href="https://www.rabbitmq.com"><img height="50" src="https://www.alwaysdata.com/static/img/technologies/databases/rabbitmq.png"></a>
-&nbsp; <a href="https://www.python.org"><img height="50" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a>
+<a href="https://www.rabbitmq.com"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RabbitMQ_logo.svg/250px-RabbitMQ_logo.svg.png"></a>
+&nbsp; <a href="https://www.python.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png"></a>
 <a href="https://fastapi.tiangolo.com"><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
   </p>
   </h3>
@@ -40,7 +40,7 @@
 <a href="https://pandas.pydata.org/docs/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/600px-Pandas_mark.svg.png"></a>
 <a href="https://numpy.org"><img height="50" src="https://numpy.org/images/logo.svg"></a>
 <a href="https://docs.celeryq.dev/en/stable/index.html"><img height="55" src="https://docs.celeryq.dev/en/stable/_static/celery_512.png"></a>
-&nbsp; <a href="https://www.python.org"><img height="50" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a>
+&nbsp; <a href="https://www.python.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png"></a>
 &nbsp; <a href="https://jupyter.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></a>
 <a href="https://fastapi.tiangolo.com"><img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
 </p>
@@ -53,9 +53,6 @@
 </a>
 <a href="https://polymerize.io/">
   <img align="left" alt="Polymerize's Website" width="22px" src="https://polymerize.io/favicon/apple-touch-icon.png" />
-<a href="https://twitter.com/Polymerize_Lab">
-  <img align="left" alt="Polymerize's Twitter" width="22px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />
-</a>
   
 <!--
 
