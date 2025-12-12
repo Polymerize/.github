@@ -13,7 +13,6 @@
 <a href="https://reactjs.org"><img height="50" src="https://pluspng.com/img-png/react-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png"></a>
 <a href="https://firebase.google.com/docs/"><img height="50" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png"></a>
 <a href="https://lerna.js.org/"><img height="50" src="https://user-images.githubusercontent.com/46837998/176855605-ca889f3f-c5be-44f6-8d0c-9268d4a65156.png"></a>
-<a href="https://graphql.org"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/GraphQL_logo_%28horizontal%29.svg/250px-GraphQL_logo_%28horizontal%29.svg.png"></a>
 <a href="https://www.cypress.io/"><img height="50" src="https://images.ctfassets.net/czwjnyf8a9ri/5jZlu3VJwWQC986YRqBY8M/29ce530fee9c62a09fc4f15b33076cde/cypress-1024x553.png"></a>
 <a href="https://nodejs.org/en/"><img height="50" src="https://nodejs.org/static/images/logo.svg"></a>
 </p>
